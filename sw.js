@@ -8,7 +8,7 @@ const interceptdomain = [
 
 
 const proxylist = [
-    "www.baidu.com"
+    "12123ads.github.io"
 
 ]
 
