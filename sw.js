@@ -8,7 +8,7 @@ const interceptdomain = [
 
 
 const proxylist = [
-    "12123ads.github.io"
+    "blog-jsdelivr.cyfan.top"
 ]
 
 const website = true
