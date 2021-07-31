@@ -3,14 +3,12 @@ let cachelist = [];
 
 const interceptdomain = [
     "127.0.0.1:9909",
-    "blog-jsdelivr.cyfan.top"
+    "zblqzx.design"
 ]
 
 
 const proxylist = [
-    "cdn.jsdelivr.net/gh/chenyfan/blog@gh-pages",
-    "cdn.jsdelivr.net/npm/chenyfan-blog@latest",
-    "unpkg.zhimg.com/chenyfan-blog@latest"
+    "www.baidu.com"
 
 ]
 
